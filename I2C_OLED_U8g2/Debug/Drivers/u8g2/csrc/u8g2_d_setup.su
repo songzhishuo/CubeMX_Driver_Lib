@@ -1,0 +1,6 @@
+u8g2_d_setup.c:196:6:u8g2_Setup_ssd1306_128x64_noname_1	48	static
+u8g2_d_setup.c:221:6:u8g2_Setup_ssd1306_128x64_noname_2	48	static
+u8g2_d_setup.c:246:6:u8g2_Setup_ssd1306_128x64_noname_f	48	static
+u8g2_d_setup.c:272:6:u8g2_Setup_ssd1306_i2c_128x64_noname_1	48	static
+u8g2_d_setup.c:297:6:u8g2_Setup_ssd1306_i2c_128x64_noname_2	48	static
+u8g2_d_setup.c:322:6:u8g2_Setup_ssd1306_i2c_128x64_noname_f	48	static
